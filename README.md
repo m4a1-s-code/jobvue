@@ -32,8 +32,7 @@ A modern job management application built with Vue.js 3, featuring a clean and i
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
-cd vue-crash-2024
+git clone 
 ```
 
 2. Install dependencies:
@@ -54,7 +53,7 @@ npm run server
 npm run dev
 ```
 
-5. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to you'r localhost
 
 ## 🔧 Project Structure
 
