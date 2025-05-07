@@ -1,6 +1,6 @@
-# Vue.js Task Management Application
+# Vue.js Job Management Application
 
-A modern task management application built with Vue.js 3, featuring a clean and intuitive user interface. This project demonstrates the implementation of Vue.js fundamentals, state management, and API integration.
+A modern job management application built with Vue.js 3, featuring a clean and intuitive user interface. This project demonstrates the implementation of Vue.js fundamentals, state management, and API integration.
 
 ## Features
 
