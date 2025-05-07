@@ -53,7 +53,7 @@ npm run server
 npm run dev
 ```
 
-5. Open your browser and navigate to you'r localhost
+5. Open your browser and navigate to your localhost
 
 ## 🔧 Project Structure
 
